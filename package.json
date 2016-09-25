@@ -1,0 +1,20 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "first node app with repo",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romikabhatia/comp2106-lab3.git"
+  },
+  "author": "romika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romikabhatia/comp2106-lab3/issues"
+  },
+  "homepage": "https://github.com/romikabhatia/comp2106-lab3#readme"
+}
